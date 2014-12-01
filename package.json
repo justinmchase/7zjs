@@ -1,14 +1,11 @@
 {
   "name": "7zjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An all-in-one package for 7zip",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "Justin Chase",
-    "email": "justin.m.chase@gmail.com"
+    "email": "justin.m.chase@outlook.com"
   },
   "license": "MIT",
   "keywords": [
