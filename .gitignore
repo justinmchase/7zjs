@@ -1,1 +1,6 @@
+# directories
 node_modules
+
+# files
+7zjs-*.tgz
+npm-debug.log

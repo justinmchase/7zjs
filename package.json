@@ -1,13 +1,21 @@
 {
   "name": "7zjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "An all-in-one package for 7zip",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Justin Chase",
+    "email": "justin.m.chase@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "7z",
+    "7zip",
+    "compression"
+  ],
   "dependencies": {
     "shelljs": "^0.3.0"
   }
