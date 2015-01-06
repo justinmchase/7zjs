@@ -7,6 +7,10 @@
     "name": "Justin Chase",
     "email": "justin.m.chase@outlook.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinmchase/7zjs.git"
+  },
   "license": "MIT",
   "keywords": [
     "7z",

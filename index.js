@@ -14,7 +14,7 @@ function append() {
 	}
 
 	var cmd = sevenZipPath + " a " + outFile + " " + infiles.join(" ");
-	return exec(cmd);
+	return exec(cmd, {silent:true});
 }
 
 sevenZip.append = append;
