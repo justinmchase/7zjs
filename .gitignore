@@ -1,5 +1,6 @@
 # directories
 node_modules
+build
 
 # files
 7zjs-*.tgz
