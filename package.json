@@ -1,6 +1,6 @@
 {
   "name": "7zjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An all-in-one package for 7zip",
   "main": "index.js",
   "author": {
